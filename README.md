@@ -5,6 +5,7 @@
 This project is a web-based chatbot application that allows users to interact with an AI-powered chatbot. The chatbot is built using Node.js and Express.js, and it integrates with the Anthropic AI language model API to generate natural language responses.
 
 The application consists of a server-side component written in Node.js and a client-side component built with HTML, CSS, and JavaScript. The server-side code handles the communication with the Anthropic API, while the client-side code provides a user-friendly interface for users to send messages and receive responses from the chatbot.
+![image](https://github.com/Rumbie-Manhenda/chatbot/assets/99598105/875562ec-7206-4008-b865-c6e499e6e68e)
 
 Key Features:
 - Natural Language Processing: The chatbot leverages the Anthropic AI language model to understand and generate human-like responses to user messages.
